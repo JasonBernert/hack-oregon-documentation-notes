@@ -50,9 +50,6 @@ What’s your name? Do you have a role at Hack Oregon? What experience do you ha
 | Megan            | Hack Oregon     | Program Director  |
 | Derek            | Housing         | Front-end "Lead"  |
 
-*"The only reason I showed up is because I had nothing else to do."* - Derek
-
-
 ### Discussion Questions
 
 **Why write documentation?**
