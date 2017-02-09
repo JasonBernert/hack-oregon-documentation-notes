@@ -42,47 +42,76 @@ If we have great docs anyone could easily answer:
 
 What’s your name? Do you have a role at Hack Oregon? What experience do you have writing docs? On a scale of one to ten, ten being the highest, how much do you enjoy writing documentation?
 
-| Name             | Project    | Role         |   📄 ❤️   |
-| -----------------|------------| -------------|---------:|
-| Jason Bernert    | Housing    | Story        |        8 |
-| ...              | ...        | ...          | ...      |
-| ...              | ...        | ...          | ...      |
-| ...              | ...        | ...          | ...      |
+| Name             | Project         | Role              |
+| -----------------|-----------------| ------------------|
+| Jason            | Housing         | Story             |
+| Ed               | Transportation  |                   |
+| Eric             | Housing         |                   |
+| Megan            | Hack Oregon     | Program Director  |
+| Derek            | Housing         | Front-end "Lead"  |
+
+*"The only reason I showed up is because I had nothing else to do."* - Derek
+
 
 ### Discussion Questions
 
 **Why write documentation?**
-* ...
+* Know why of code was written and how it works
+* Make onboarding at Hack Oregon easier
+* Solving problems when the owner is no longer around
+* See Hack Oregon's growth over time
+* Inform those outside Hack Oregon how we run. What if someone from Washington wanted to start "Hack Washington"?
+
+**How can non-coders contribute?**
+* Explain context around the project
+* In-depth note taking
+* Document and catalogue subject matter
 
 **Who are we writing docs for?**
-* Consumers of data
+* Consumers of data: public using our endpoints
 * Public officials giving us data
 * Future Hack Oregonians
-* ...
+* A resource for those who want to volunteer to easily find projects that fit their skill set and free time.
 
 **What should we document?**
 * Project summaries
 * API methods/endpoints
-* Hack U classes / Civic Lab talks & discussion?
+* Hack University class material
+* Civic Lab talks & discussion
+  * Could we make an ebook?
+* Hack Oregon project roles
+* Project timelines (task & skill level)
+* Meta: How does Hack Oregon solve problems?
+  * How does Hack Oregon work as a organization?
+  * How do we get volunteers?
 
 **What have we already documented?**
 * A wide variety of READMEs on Github.
-* http://hackoregon.github.io/
+* [HackOregon Guides](http://hackoregon.github.io/)
+* [Hack Oregon's getting started repo](https://github.com/hackoregon/getting-started)
 
 **What are good examples of documentation you’ve seen?**
-* ...
+* [Check this list!](https://github.com/PharkMillups/beautiful-docs)
+* [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
 
 **What are good documentation tools?**
 * [Check this list!](https://github.com/PharkMillups/beautiful-docs#generating-docs)
-* Anyone write document while working with Django?
 * [Mastering Markdown video series](https://masteringmarkdown.com/)
+* [Sphinx](http://www.sphinx-doc.org/en/stable/contents.html)
+* [Gitbook](https://www.gitbook.com/)
+* [Storybook](https://getstorybook.io/)
+
+**Hack Oregon Workflows**
+* A Hack Oregon editor in chief with deputy editors in each team
 
 **Is it possible to write documentation templates to get people started?**
-* ...
+* Yes. In github repos.
 
 **Where does documentation go?**
 * **During development:** with your code in your repo?
 * **When you’re ready to publish:** as a public site alongside your published product?
 
 **How do you incentives people to write documentation?**
-* ...
+* Say thanks! A lot!
+* Find people
+* Meet them half way. A doc template with smaller tasks where all they have to do is fill in the blank.
